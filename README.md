@@ -41,11 +41,7 @@ World Explorer é o seu parceiro de viagem ideal. Planeje itinerários, descubra
 # Tecnologias Usadas
 
 - [Figma](https://www.figma.com/)
-- [Flutter](https://flutter.dev/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+
 
 # Contribuição
 
